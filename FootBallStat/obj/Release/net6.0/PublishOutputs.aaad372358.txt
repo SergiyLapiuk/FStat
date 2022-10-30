@@ -17,6 +17,8 @@ C:\Users\acer\Desktop\12\FootBallStat\FootBallStat\obj\Release\net6.0\PubTmp\Out
 C:\Users\acer\Desktop\12\FootBallStat\FootBallStat\obj\Release\net6.0\PubTmp\Out\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
 C:\Users\acer\Desktop\12\FootBallStat\FootBallStat\obj\Release\net6.0\PubTmp\Out\refs\Microsoft.AspNetCore.CookiePolicy.dll
 C:\Users\acer\Desktop\12\FootBallStat\FootBallStat\obj\Release\net6.0\PubTmp\Out\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\acer\Desktop\12\FootBallStat\FootBallStat\obj\Release\net6.0\PubTmp\Out\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\acer\Desktop\12\FootBallStat\FootBallStat\obj\Release\net6.0\PubTmp\Out\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\acer\Desktop\12\FootBallStat\FootBallStat\obj\Release\net6.0\PubTmp\Out\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
 C:\Users\acer\Desktop\12\FootBallStat\FootBallStat\obj\Release\net6.0\PubTmp\Out\refs\Microsoft.AspNetCore.DataProtection.dll
 C:\Users\acer\Desktop\12\FootBallStat\FootBallStat\obj\Release\net6.0\PubTmp\Out\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
@@ -95,6 +97,7 @@ C:\Users\acer\Desktop\12\FootBallStat\FootBallStat\obj\Release\net6.0\PubTmp\Out
 C:\Users\acer\Desktop\12\FootBallStat\FootBallStat\obj\Release\net6.0\PubTmp\Out\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
 C:\Users\acer\Desktop\12\FootBallStat\FootBallStat\obj\Release\net6.0\PubTmp\Out\refs\Microsoft.Extensions.Configuration.Xml.dll
 C:\Users\acer\Desktop\12\FootBallStat\FootBallStat\obj\Release\net6.0\PubTmp\Out\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\acer\Desktop\12\FootBallStat\FootBallStat\obj\Release\net6.0\PubTmp\Out\refs\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\acer\Desktop\12\FootBallStat\FootBallStat\obj\Release\net6.0\PubTmp\Out\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
 C:\Users\acer\Desktop\12\FootBallStat\FootBallStat\obj\Release\net6.0\PubTmp\Out\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
 C:\Users\acer\Desktop\12\FootBallStat\FootBallStat\obj\Release\net6.0\PubTmp\Out\refs\Microsoft.Extensions.Features.dll
@@ -106,6 +109,8 @@ C:\Users\acer\Desktop\12\FootBallStat\FootBallStat\obj\Release\net6.0\PubTmp\Out
 C:\Users\acer\Desktop\12\FootBallStat\FootBallStat\obj\Release\net6.0\PubTmp\Out\refs\Microsoft.Extensions.Hosting.Abstractions.dll
 C:\Users\acer\Desktop\12\FootBallStat\FootBallStat\obj\Release\net6.0\PubTmp\Out\refs\Microsoft.Extensions.Hosting.dll
 C:\Users\acer\Desktop\12\FootBallStat\FootBallStat\obj\Release\net6.0\PubTmp\Out\refs\Microsoft.Extensions.Http.dll
+C:\Users\acer\Desktop\12\FootBallStat\FootBallStat\obj\Release\net6.0\PubTmp\Out\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\acer\Desktop\12\FootBallStat\FootBallStat\obj\Release\net6.0\PubTmp\Out\refs\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\acer\Desktop\12\FootBallStat\FootBallStat\obj\Release\net6.0\PubTmp\Out\refs\Microsoft.Extensions.Localization.Abstractions.dll
 C:\Users\acer\Desktop\12\FootBallStat\FootBallStat\obj\Release\net6.0\PubTmp\Out\refs\Microsoft.Extensions.Localization.dll
 C:\Users\acer\Desktop\12\FootBallStat\FootBallStat\obj\Release\net6.0\PubTmp\Out\refs\Microsoft.Extensions.Logging.Abstractions.dll
